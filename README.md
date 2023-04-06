@@ -7,14 +7,16 @@
   </section>
 </div>
 
+##
 
 Olá! Meu nome é João Paulo e sou um jovem apaixonado por tecnologia. 
 
-Estou cursando Análise e Desenvolvimento de Sitemas pela faculdade SENAI FATESG, mas já atuo como desenvolvedor de software no mercado. 
+Atualmente curso Análise e Desenvolvimento de Sitemas pela faculdade SENAI FATESG, mas já atuo como desenvolvedor de software Jr. 
 
 Estou constantemente procurando por novos desafios que possam me ajudar a melhorar minhas habilidades. No meu tempo livre, gosto de trabalhar em projetos pessoais e educativos, que compartilho nesta plataforma para que outros desenvolvedores possam aprender com eles.
 
-  
+<br>
+
 ## Skills:
 
 <div>
