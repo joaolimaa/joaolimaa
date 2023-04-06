@@ -1,5 +1,4 @@
 <div>
- <!-- <a href="https://www.dfilitto.com.br"><img src="https://github.com/dfilitto/dfilitto/blob/main/imagens/Banner%20Github.png?raw=true" width="100%" height="auto"/></a>-->
   <section align="right">
     <a href="https://www.youtube.com/@joao_limaa/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/jplimag?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
