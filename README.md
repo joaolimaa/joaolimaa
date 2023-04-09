@@ -22,9 +22,8 @@
   Estou animado com o futuro da tecnologia e espero fazer parte das próximas inovações que irão moldar o mundo em que vivemos.
 </p> 
  
-<br>
 
-## Skills:
+## 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
