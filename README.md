@@ -10,7 +10,9 @@
   </section>
 </div>
 
-##
+### **SOBRE MIM:**
+
+---
 
 <p>
   Olá! Meu nome é João Paulo e sou um jovem entusiasta da tecnologia.
@@ -21,9 +23,28 @@
 
   Estou animado com o futuro da tecnologia e espero fazer parte das próximas inovações que irão moldar o mundo em que vivemos.
 </p> 
- 
 
-## 
+
+
+### **CERTIFICAÇÕES:**
+
+---
+
+<p>
+  
+</p> 
+
+### **RECONHECIMENTOS:**
+
+---
+
+<p>
+
+</p> 
+ 
+### **HABILIDADES:**
+
+---
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="30" height="30"/>
