@@ -66,6 +66,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" width="28" height="37px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" width="28" height="37px"/>
 </div>
-
----
-
