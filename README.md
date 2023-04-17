@@ -1,5 +1,5 @@
 <picture>
-  <p><a href="https://www.dfilitto.com.br"><img src="https://github.com/dfilitto/dfilitto/blob/main/imagens/Banner%20Github.png?raw=true" width="100%" height="auto"/></a></p>
+  <p><a href="https://media.discordapp.net/attachments/1094679979507335270/1097265119303573624/Ativo_1.png?width=1033&height=167"></a></p>
 </picture>  
 
 <div>
