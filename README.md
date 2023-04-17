@@ -8,9 +8,10 @@
   </section>
 </div>
 
+---
+
 ### **SOBRE MIM:**
 
----
 
 <p>
   Olá! Meu nome é João Paulo e sou um jovem entusiasta da tecnologia.
@@ -27,18 +28,16 @@
   Estou animado com o futuro da tecnologia e espero fazer parte das próximas inovações que irão moldar o mundo em que vivemos.
 </p> 
 
-
+---
 
 ### **CERTIFICAÇÕES:**
 
----
 
 📂| Você pode encontrar os meus certificados em: <p>https://github.com/joaolimaa/joaolimaa/tree/main/images/certificados</p>
 
+---
 
 ### **RECONHECIMENTOS:**
-
----
 
 * Cidadão Herói: Medalha de honra conquistada pelo desempenho em competições de robótica, representando o Estado de Goiás.
 * Inovação: Concedido por AEB(Agência Epacial Brasileira);
@@ -46,10 +45,9 @@
 * Champion's Award: Concedido(s) por NASA, pelo feito de conquistar a vitória do torneio mundial de robótica FLL;
 * Honra ao mérito: Concedido(s) por FIEG-GO, CREA-GO, ALEGO-GO (Assembleia Legislativa do Estado de Goiás) e Presidência da República Federativa do Brasil.
 
+---
 
 ### **HABILIDADES:**
-
----
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="35" height="35"/>
@@ -69,4 +67,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" width="28" height="37px"/>
 </div>
 
+---
 
