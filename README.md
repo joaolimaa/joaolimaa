@@ -26,7 +26,7 @@
 
 ### **CERTIFICAÇÕES:**
 
-📂| Você pode encontrar os meus certificados em: <p>https://www.youtube.com/@joao_limaa/videos</p>
+📂| Você pode encontrar os meus certificados em: <p>https://github.com/joaolimaa/joaolimaa/tree/main/images/certificados/Power%20B.I</p>
 
 ---
 
@@ -35,6 +35,12 @@
 </p> 
 
 ### **RECONHECIMENTOS:**
+
+* Cidadão Herói: Medalha de honra conquistada pelo desempenho em competições de robótica, representando o Estado de Goiás.
+* Inovação: Concedido por AEB(Agência Epacial Brasileira);
+* Melhor projeto de pesquisa: Concedido por FEBRACE(Feira Brasileira de Ciências e Engenharia);
+* Champion's Award: Concedido(s) por NASA, pelo feito de conquistar a vitória do torneio mundial de robótica FLL;
+* Honra ao mérito: Concedido(s) por FIEG-GO, CREA-GO, ALEGO-GO (Assembleia Legislativa do Estado de Goiás) e Presidência da República Federativa do Brasil.
 
 ---
 
