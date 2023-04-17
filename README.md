@@ -1,9 +1,6 @@
-<picture>
-  <p><a href="https://media.discordapp.net/attachments/1094679979507335270/1097265119303573624/Ativo_1.png?width=1033&height=167"></a></p>
-</picture>  
-
 <div>
-  <section align="right">
+  <p><img src= "https://github.com/joaolimaa/joaolimaa/blob/main/images/banner.svg" width= 200% align=center/></p>
+    <section align="right">
   <a href = "mailto:joao.lima_dev@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/@joao_limaa/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/jplimag?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,9 +22,11 @@
   Estou animado com o futuro da tecnologia e espero fazer parte das próximas inovações que irão moldar o mundo em que vivemos.
 </p> 
 
-
+---
 
 ### **CERTIFICAÇÕES:**
+
+📂| Você pode encontrar os meus certificados em: <p>https://www.youtube.com/@joao_limaa/videos</p>
 
 ---
 
@@ -62,6 +61,6 @@
   <img src="https://img.icons8.com/color/512/power-bi.png" title="Power BI" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" width="28" height="37px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" width="28" height="37px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" width="28" height="37px"/>
 </div>
 
