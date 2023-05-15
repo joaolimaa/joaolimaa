@@ -8,16 +8,22 @@
   </section>
 </div>
 
+---
+
 ### **SOBRE MIM:**
 
----
 
 <p>
   Olá! Meu nome é João Paulo e sou um jovem entusiasta da tecnologia.
 
-  Desde muito jovem, participei de feiras científicas e competições de robótica em etapas regionais, nacionais e mundiais. Atualmente, estou cursando Análise e           Desenvolvimento de Sistemas na Faculdade SENAI FATESG. No entanto, minha paixão pela tecnologia me levou a começar a trabalhar como desenvolvedor de software Jr,       onde tenho a oportunidade de aplicar meus conhecimentos em um ambiente de trabalho profissional.
+  Desde muito jovem, participei de feiras científicas e competições de robótica em etapas regionais, nacionais e mundiais. 
+  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAI FATESG. No entanto, minha paixão pela 
+  tecnologia me levou a começar a trabalhar como desenvolvedor de software Jr, onde tenho a oportunidade de aplicar meus 
+  conhecimentos em um ambiente de trabalho profissional.
 
-  Estou sempre em busca de novos desafios que possam me ajudar a aprimorar minhas habilidades como desenvolvedor. Além disso, dedico parte do meu tempo livre a           trabalhar em projetos pessoais e educativos, que compartilho nesta plataforma com outros desenvolvedores, colaborando com a comunidade para promover a inovação e o     progresso em nossa área.
+  Estou sempre em busca de novos desafios que possam me ajudar a aprimorar minhas habilidades como desenvolvedor. Além disso, 
+  dedico parte do meu tempo livre a trabalhar em projetos pessoais e educativos, que compartilho nesta plataforma com outros 
+  desenvolvedores, colaborando com a comunidade para promover a inovação e o progresso em nossa área.
 
   Estou animado com o futuro da tecnologia e espero fazer parte das próximas inovações que irão moldar o mundo em que vivemos.
 </p> 
@@ -26,13 +32,10 @@
 
 ### **CERTIFICAÇÕES:**
 
-📂| Você pode encontrar os meus certificados em: <p>https://github.com/joaolimaa/joaolimaa/tree/main/images/certificados/Power%20B.I</p>
+
+📂| Você pode encontrar os meus certificados em: <p>https://github.com/joaolimaa/joaolimaa/tree/main/images/certificados</p>
 
 ---
-
-<p>
-  
-</p> 
 
 ### **RECONHECIMENTOS:**
 
@@ -44,13 +47,7 @@
 
 ---
 
-<p>
-
-</p> 
- 
 ### **HABILIDADES:**
-
----
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="35" height="35"/>
@@ -69,4 +66,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" width="28" height="37px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" width="28" height="37px"/>
 </div>
-
