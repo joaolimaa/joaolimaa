@@ -1,5 +1,5 @@
 <div>
-  <p><img src= "https://github.com/joaolimaa/joaolimaa/blob/main/images/banner.svg" width= 200% align=center/></p>
+  <p><img src= "https://github.com/joaolimaa/joaolimaa/blob/main/images/flyer_inicial.svg" width= 200% align=center/></p>
     <section align="right">
   <a href = "mailto:joao.lima_dev@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/@joao_limaa/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
