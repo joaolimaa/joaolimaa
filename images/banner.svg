@@ -17,21 +17,23 @@
 			<rect x="8.5" y="45.5" class="st0" width="946.7" height="67.9"/>
 			<rect x="8.5" y="88.1" class="st1" width="946.7" height="8.2"/>
 			
-				<image style="overflow:visible;opacity:0.54;enable-background:new    ;" width="170" height="170" xlink:href="77E98875.png"  transform="matrix(1 0 0 1 73 -1.345663e-05)">
+				<image style="overflow:visible;opacity:0.54;enable-background:new    ;" width="170" height="170" xlink:href="77E98875.png"  transform="matrix(1 0 0 1 73 -2.018494e-05)">
 			</image>
 			<circle class="st0" cx="154.1" cy="80.2" r="72.8"/>
 			<g>
 				<g>
-					<defs>
-						<circle id="SVGID_1_" cx="154.1" cy="80.2" r="72.8"/>
-					</defs>
-					<clipPath id="SVGID_2_">
-						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-					</clipPath>
-					<g class="st2">
-						
-							<image style="overflow:visible;enable-background:new    ;" width="1600" height="1600" xlink:href="77E98874.jpeg"  transform="matrix(0.1 0 0 0.1 74.42 5.65)">
-						</image>
+					<g>
+						<defs>
+							<circle id="SVGID_1_" cx="154.1" cy="80.2" r="72.8"/>
+						</defs>
+						<clipPath id="SVGID_2_">
+							<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+						</clipPath>
+						<g class="st2">
+							
+								<image style="overflow:visible;enable-background:new    ;" width="1600" height="1600" xlink:href="77E98874.jpeg"  transform="matrix(0.1 0 0 0.1 74.42 5.65)">
+							</image>
+						</g>
 					</g>
 				</g>
 			</g>
@@ -46,8 +48,8 @@
 					c-1.5,0-2.5-0.5-3-1.6h-0.2c-0.8,1.1-2,1.6-3.6,1.6c-1.2,0-2.2-0.4-2.8-1.2c-0.7-0.8-1-1.9-1-3.3c0-1.7,0.5-2.9,1.6-3.6
 					s2.8-1.1,5.1-1.3v-0.8c0-0.6-0.3-0.9-0.9-0.9c-1,0-2.6,0.3-4.7,0.9l-0.8-4.6c2.7-0.7,4.9-1,6.7-1s3,0.3,3.7,1
 					C733.9,63.4,734.3,64.5,734.3,65.9z M733.3,56.3v0.3c0,1.3-0.2,2.4-0.6,3c-0.4,0.7-1.1,1-2.3,1c-0.8,0-1.6-0.2-2.5-0.5l-0.8-0.3
-					V61h-3.4v-0.3c0-1.4,0.2-2.4,0.6-3.1c0.4-0.7,1.1-1,2.1-1c0.3,0,1.3,0.2,2.8,0.6l0.6,0.2v-1h3.5V56.3z M728.2,73.7
-					c0.8,0,1.2-0.4,1.2-1.2V71c-0.8,0.1-1.3,0.3-1.6,0.5s-0.5,0.6-0.5,1.1C727.3,73.3,727.6,73.7,728.2,73.7z"/>
+					V61h-3.4v-0.3c0-1.4,0.2-2.4,0.6-3.1c0.4-0.7,1.1-1,2.1-1c0.3,0,1.3,0.2,2.8,0.6l0.6,0.2v-1h3.5L733.3,56.3L733.3,56.3z
+					 M728.2,73.7c0.8,0,1.2-0.4,1.2-1.2V71c-0.8,0.1-1.3,0.3-1.6,0.5s-0.5,0.6-0.5,1.1C727.3,73.3,727.6,73.7,728.2,73.7z"/>
 				<path class="st1" d="M736.4,69.5c0-2.8,0.5-4.7,1.6-6c1.1-1.2,2.7-1.9,5-1.9c2.2,0,3.9,0.6,4.9,1.8s1.5,3.2,1.5,6
 					c0,2.8-0.5,4.8-1.5,6c-1,1.3-2.6,1.9-4.9,1.9c-2.3,0-3.9-0.6-5-1.9C736.9,74.2,736.4,72.2,736.4,69.5z M743.9,66.5
 					c-0.1-0.4-0.5-0.6-1-0.6s-0.9,0.2-1,0.6s-0.2,1.3-0.2,2.6v0.8c0,1.5,0.1,2.4,0.2,2.9c0.1,0.4,0.5,0.7,1,0.7s0.9-0.2,1-0.7
