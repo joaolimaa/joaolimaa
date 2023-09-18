@@ -14,7 +14,7 @@
 
 
 <p>
-  Olá! Meu nome é João Paulo e sou um jovem entusiasta da tecnologia.
+  Olá! Meu nome é João Paulo e sou um entusiasta da tecnologia.
 
   Desde muito jovem, participei de feiras científicas e competições de robótica em etapas regionais, nacionais e mundiais. 
   Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAI FATESG. No entanto, minha paixão pela 
