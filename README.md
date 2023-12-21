@@ -32,7 +32,7 @@
 ### **CERTIFICAÇÕES:**
 
 
-📂| Você pode encontrar os meus certificados em: <p>https://github.com/joaolimaa/joaolimaa/tree/main/images/certificados</p>
+📂| Você pode encontrar os meus certificados em: <p>https://github.com/joaolimaa/joaolimaa/tree/main/imagens/certificados</p>
 
 ---
 
