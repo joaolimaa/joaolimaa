@@ -17,7 +17,7 @@
 
   Desde muito jovem, participei de feiras científicas e competições de robótica em etapas regionais, nacionais e mundiais. 
   Atualmente, sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade SENAI FATESG e pós graduando em Arquitetura de software pela FIAP.
-  No entanto, minha paixão pela tecnologia me levou a começar a trabalhar como desenvolvedor de software Jr, onde tenho a oportunidade de aplicar meus 
+  No entanto, minha paixão pela tecnologia me levou a começar a trabalhar como analista de sistemas jr, onde tenho a oportunidade de aplicar meus 
   conhecimentos em um ambiente de trabalho profissional.
 
   Estou sempre em busca de novos desafios que possam me ajudar a aprimorar minhas habilidades como desenvolvedor. Além disso, 
