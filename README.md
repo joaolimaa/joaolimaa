@@ -15,7 +15,7 @@
   Olá! Meu nome é João Paulo e sou um entusiasta da tecnologia.
 
   Desde muito jovem, participei de feiras científicas e competições de robótica em etapas regionais, nacionais e mundiais. 
-  Atualmente, sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade SENAI FATESG e pós graduando em Arquitetura de software pela FIAP.
+  Atualmente, sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade SENAI FATESG e pós graduado em Arquitetura de software pela FIAP.
   No entanto, minha paixão pela tecnologia me levou a trabalhar como analista de sistemas jr, bem como instrutor de educação profissional no curso técnico de Desenvolvimento de Sistemas pelo SENAI/Secretaria do Estado de Educação em Goiás.
 
   Estou sempre em busca de novos desafios que possam me ajudar a aprimorar minhas habilidades como desenvolvedor. Além disso, 
